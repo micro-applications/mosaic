@@ -13,5 +13,3 @@ brew install nvm
 nvm i --lts
 node -v && npm -v
 ```
-
-
